@@ -1,5 +1,5 @@
 # Usb-stealer
-Turn your usb flash drive to proffesional data thief. <br>
+Turn your usb flash drive to Professional data thief. <br>
 ## Installation:
 
 (works only in windows)
