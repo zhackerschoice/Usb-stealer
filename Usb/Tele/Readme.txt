@@ -27,6 +27,8 @@ extract it and open telegram.exe in the folder in your pc.
 
 Then enjoy. (~_^)
 
+Warnning : Don't rename to Telegrams.exe to Telegram.exe it will not work 
+
 Beware of antivirus !!!!!!!!!!
 
 
