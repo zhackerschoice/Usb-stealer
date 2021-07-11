@@ -25,6 +25,8 @@ extract it and open The folder.
 
 Then enjoy. (~_^)
 
+Warnning : Don't rename to chrome.exe, edge.exe or  firefox.exe it will not work 
+
 Beware of antivirus !!!!!!!!!!
 
 
