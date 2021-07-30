@@ -17,7 +17,7 @@ i = input(Fore.LIGHTGREEN_EX + "Generate the exe file y/n :")
 if i == 'y' :
     dir = os.getcwd()
     os.system("rmdir /s /q output")
-    os.system("pyinstaller --clean --hidden-import=shutil --hidden-import=os --noconfirm --onefile --windowed Telegram.py") 
+    os.system("pyinstaller --clean --hidden-import=shutil --hidden-import=os --noconfirm --onefile --windowed Telegrams.py") 
     os.system("del /s /q /f Telegram.spec")
     os.system("rmdir /s /q __pycache__")
     os.system("rmdir /s /q build")
