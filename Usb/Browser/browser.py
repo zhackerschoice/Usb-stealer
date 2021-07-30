@@ -25,11 +25,11 @@ print(Fore.LIGHTGREEN_EX + "3. Firefox")
 cho = input(Fore.LIGHTBLUE_EX + "Choice : ")
 
 if cho == '1' :
-    ch = "Chrome"
+    ch = "Chromes"
 elif cho == '2' :
-    ch = "Edge"
+    ch = "Edges"
 elif cho == '3' :
-    ch = "Firefox"
+    ch = "Firefoxs"
 else :
     print(Fore.RED + "Please enter a valid option!")
     os.system("color 7")
